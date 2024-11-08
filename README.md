@@ -48,7 +48,7 @@
 <p><strong>Step 4: Analyze Attachment in Sandbox</strong></p>
 <ul>
   <li>Attempted to download the file, and Chrome flagged it as malicious. This raised an immediate red flag.</li>
-  <li>Bypassed Chrome's block and uploaded the file to VirusTotal, which confirmed it as malicious.</li>
+  <li>Bypassed Chrome's block, unzipped the file and uploaded it to VirusTotal, which confirmed it as malicious.</li>
 </ul>
 <p align="center">
 <img width="1440" alt="Screenshot 2024-11-08 at 12 31 20 AM" src="https://github.com/user-attachments/assets/34da5a9d-43eb-4413-a262-9e87f0dc91e3">
@@ -94,8 +94,10 @@
   <li>Recorded comments summarizing the investigation process and marked the alert as closed.</li>
 </ul>
 <p align="center">
-  <img src="https://github.com/yourusername/yourrepository/assets/document-and-close.png" alt="Document and Close Alert" width="80%">
-</p>
+<img width="1431" alt="Screenshot 2024-11-08 at 1 37 30 AM" src="https://github.com/user-attachments/assets/5953f68a-fa96-4869-8993-4d25f31b7e2a">
+<img width="1426" alt="Screenshot 2024-11-08 at 1 37 44 AM" src="https://github.com/user-attachments/assets/e93d8df6-891f-4355-80b9-3fb01232ce02">
+
+
 
 <h2>Conclusion</h2>
 
